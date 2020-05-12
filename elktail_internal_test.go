@@ -6,7 +6,7 @@
 package main
 
 import (
-	tu "github.com/knes1/elktail/testutils"
+	tu "github.com/hsawhney09/elktail/testutils"
 	"testing"
 )
 
