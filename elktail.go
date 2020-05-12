@@ -10,7 +10,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"github.com/olivere/elastic/v7"
-	"github.com/urfave/cli"
+	"github.com/urfave/cli/v2"
 	"golang.org/x/crypto/ssh/terminal"
 	"golang.org/x/net/context"
 	"io/ioutil"
